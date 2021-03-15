@@ -2,7 +2,7 @@
 Execute:
 
 ```
-python src/tarefa1.jpg.
+python src/tarefa1.py
 ```
 
 # Tarefa 2
